@@ -2,7 +2,7 @@
 - I'm currently a student at Texas A&M Univeristy majoring in Computing (our BA in CS program)
 - I'll be posting projects and some of the things I work on in class here
 - Currently, I'm in the process of preparing for the Summer 2023 internship recruiting cycle and working an internship at Dell Techonologies
-- To reach me contact: hunterz7890@gmail.com
+- To reach me contact: hunterzacha@tamu.edu
 
 <!---
 hunterzacha/hunterzacha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
