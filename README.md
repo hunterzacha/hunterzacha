@@ -1,5 +1,5 @@
 - Hi I'm Hunter Zacha!
-- I'm currently a student at Texas A&M Univeristy majoring in Computing (our BA in CS program) and am taking part in the Fast-Track program to complete my Master's in May 2025
+- I'm currently a student at Texas A&M Univeristy majoring in Computing (our BA in CS program) and am taking part in the Fast-Track program to complete my Master's in Computer Science in May 2025
 - I'll be posting projects and some of the things I work on in class here
 - To reach me contact: hunterzacha@tamu.edu
 
